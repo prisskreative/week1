@@ -1,2 +1,2 @@
 # week1
-Week 1 Excercises
+Week 1 Exercises

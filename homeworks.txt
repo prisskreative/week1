@@ -1,0 +1,80 @@
+Post title 1
+**************
+Post 1 text
+----------------
+
+
+Post title 2
+**************
+Post 2 text
+----------------
+
+
+Post title 3
+**************
+Post 3 text
+----------------
+
+
+
+
+Blog with post inside
+instance of post are sponsor and display it different
+
+
+
+
+-----------
+
+
+keynote
+
+presentation file
+
+
+
+Prepare for the next big thing
+----
+The iTerminal
+----
+Is here
+
+- leave lines and spaces 
+- next will show you next slide
+- look for user input ex next - previous
+
+
+Auto advanced 
+
+auto play button
+multi center
+
+
+gem install
+
+------
+
+show first 
+
+waiting for user input isn't exit and isnt next
+input = get.chomp
+
+
+
+---------
+
+
+Shopping Cart
+
+--------
+
+Movie Ratings
+
+list of Movie
+get rating 
+display in a graphical
+
+if this movie have 8 put # is not
+	if movie have 7 
+
+
